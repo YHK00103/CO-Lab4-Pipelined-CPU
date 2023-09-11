@@ -19,4 +19,5 @@ Based on your Lab 3 CPU design, implement a pipelined CPU.
 ![image](https://github.com/YHK00103/CO-Lab4-Pipelined-CPU/assets/117156581/74a3710a-0d2d-497d-890b-8bd131a6bbb3)
 
 ## Architecture Diagrams
+According to the given architecture diagrams in file [CO_Lab4.pdf](CO_Lab_4.pdf). 
 ![image](https://github.com/YHK00103/CO-Lab4-Pipelined-CPU/assets/117156581/e341d722-8bb6-445d-8cb6-f160a6c47053)
